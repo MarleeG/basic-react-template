@@ -63,6 +63,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Project Template
+
+# Name Of Project
+
+Description here
+
+## Built With - Example
+
+- [Javscript](https://www.javascript.com/)
+- [React](https://reactjs.org)
+- [Bootstrap](https://getbootstrap.com/)
+- [React Bootstrap](https://react-bootstrap.github.io)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Google Fonts](https://fonts.google.com/)
+- [Animate.css](https://www.npmjs.com/package/react-animated-css)
+
+## Deployed App - Example
+- [TrickyClicks](https://tricky-clicks.herokuapp.com/)
