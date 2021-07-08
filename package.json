@@ -24,10 +24,12 @@
   },
   "homepage": "https://github.com/MarleeG/basic-react-template#readme",
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "concurrently": "^6.2.0",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "react-bootstrap": "^1.6.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
